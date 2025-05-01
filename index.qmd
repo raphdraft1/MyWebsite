@@ -7,7 +7,7 @@ title: "Raphael Ngooi"
 </style>
 
 ::: {figure}
-![](Asetts/OnAHike.jpg){width=100%}
+![](Assets/OnAHike.jpg){width=100%}
 :::
 
 # Who am I?
