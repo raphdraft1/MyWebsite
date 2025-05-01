@@ -3,13 +3,22 @@ project:
 
 website:
   title: "About me - Raphael Ngooi"
+  favicon: Assets/favicon-16x16.png
   navbar:
     background: primary
-    search: true
+    search: false
     left:
       - text: "Home"
         href: index.qmd
-      - about.qmd 
+      - text: "About"
+        href: about.qmd
+      - text: "My Resume"
+        href: resume.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/raphael-ngooi-019aa8208/
+      - icon: github
+        href: https://github.com/Raphdraft1
 
 format:
   html:
