@@ -9,7 +9,6 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - talks.qmd
       - about.qmd 
 
 format:

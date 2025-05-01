@@ -1,7 +1,23 @@
 ---
-title: "My website"
+title: "Raphael Ngooi"
 ---
 
-This is a Quarto website.
+<style>
 
+</style>
+
+::: {figure}
+![](Asetts/OnAHike.jpg){width=100%}
+:::
+
+# Who am I?
+
+I am a second year computer science student with a passion for statistics, tinkering, making and breaking stuff.
+
+# What is this site?
+
+This site is a personal playground where I can write a blog, post my projects and more. 
+
+
+# Developer notes
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
