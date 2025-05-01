@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+You can access my resume at: [Raphael Ngooi Resume](Assets/RaphaelCV.pdf)
+
+<iframe src="Assets/RaphaelCV.pdf" width="100%" height="600px"></iframe>
